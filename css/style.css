@@ -1,0 +1,74 @@
+*{
+	padding: 0px;
+	margin:  0px;
+}
+body {
+	background-color: slategray;
+}
+.mountains{
+	width:  200px;
+	height: 133px;
+	float:  left;
+	margin: 10px 15px 10px 10px
+}
+h1{
+	text-align: center;
+	margin-top: 20px;
+}
+.Dreams {
+	font-family: Verdana, Arial, Ubuntu;
+	font-size:   20px; 
+	margin:      10px 5px 10px 10px;
+}
+a{text-decoration: none;}
+.richard {
+	font-family: Verdana, Arial, Ubuntu;
+	font-family: Comfortaa, Ubuntu;
+	font-size:   18px; 
+	font-style:  italic;
+	margin-left: 50%;
+}
+.family{
+	font-family: Comfortaa, Ubuntu;
+	font-size:   18px; 
+	font-style:  italic;
+	margin-left: -42%;
+}
+.China{
+	width:  200px;
+	height: 133px;
+	float:  right;
+	margin: 10px 15px 10px 10px
+}
+.lukin{
+	font-family: Verdana, Arial, Ubuntu;
+	font-size:   20px; 
+	margin:      10px 5px 10px 10px
+}
+a{text-decoration: none;}
+.Elukin{
+	font-family: Comfortaa, Ubuntu;
+	font-size:   18px; 
+	font-style:  italic;
+	margin-left: 50%;
+}
+
+.decline{
+	width:  200px;
+	height: 133px;
+	float:  left;
+	margin: 10px 15px 10px 10px
+}
+.elukin{
+	font-family: Verdana, Arial, Ubuntu;
+	font-size:   20px; 
+	margin:      10px 5px 10px 10px
+}
+a{text-decoration: none;}
+.Elukin{
+	font-family: Comfortaa, Ubuntu;
+	font-size:   18px; 
+	font-style:  italic;
+	margin-left: 50%;
+}
+
